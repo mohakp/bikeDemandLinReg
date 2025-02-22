@@ -25,11 +25,11 @@ This project builds a model the demand for shared bikes with the available indep
 
 ## Conclusions
 - The following variables do affect the demand for bikes:
-**Positive Effect**: workingday,atemp.
+ - **Positive Effect**: workingday,atemp.
  - 2019 has seen more demand than 2018.
  - Following months will positive affect the demand: March,May, October, September
  - Sunday seems to have more demand compared other days.
- **Negative Effect**:hum,windspeed, spring season, Light weather (Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds), Mist weather(Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist), July month
+ - **Negative Effect**:hum,windspeed, spring season, Light weather (Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds), Mist weather(Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist), July month
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
