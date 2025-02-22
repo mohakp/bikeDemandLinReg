@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@mohakp] - feel free to contact me!
+Created by [Mohak Pingle](https://github.com/mohakp) - feel free to contact me!
 
 
 <!-- Optional -->
